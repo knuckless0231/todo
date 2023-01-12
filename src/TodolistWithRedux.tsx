@@ -12,7 +12,7 @@ import {ChangeTodolistFilterAC, ChangeTodolistTitleAC, RemoveTodolistAC} from ".
 
 export type TasksStateType = {
     [key: string]: Array<TaskType>
-}
+}//12
 
 export type TaskType = {
     id: string
